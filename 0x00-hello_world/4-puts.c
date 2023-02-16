@@ -1,5 +1,5 @@
 #!/bin/bash
-#include <stdio.h>
+#betty <stdio.h>
 
 /**
  * main - Entry point
