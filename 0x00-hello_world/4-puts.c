@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - Write a C program that prints what is needed followed by a new line 
  * Return:0(success)
  */
 int main(void)
