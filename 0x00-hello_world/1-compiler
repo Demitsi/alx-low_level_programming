@@ -1,2 +1,2 @@
 #!/bin/bash
-printf -E $CFILE -o o
+export -E (('$CFILE="main.c"; -o $main.c="main.o"'))
