@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Write a C program that prints what is needed followed by a new line 
- * Return:0(success)
+ * Return: 0(success)
  */
 int main(void)
 {
