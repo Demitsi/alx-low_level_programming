@@ -1,1 +1,1 @@
-To create a script that runs a c file through the preprocessor and save the result into another file
+Creating a script that compiles a file but does not link it
