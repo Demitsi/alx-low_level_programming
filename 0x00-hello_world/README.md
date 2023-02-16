@@ -1,1 +1,1 @@
-Creating a script that compiles a file but does not link it
+Create a script that generates the assembly code of a C code and save it in an Output file
