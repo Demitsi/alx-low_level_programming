@@ -1,1 +1,1 @@
-A c program that prints a certain discription followed by a new line
+Is to write a C program that prints the size of various types on the computer it is compiled and run on
