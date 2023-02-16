@@ -1,1 +1,1 @@
-Create a script that compiles a files and creates a executable named file
+Write a C program that prints what is needed followed by a new line
