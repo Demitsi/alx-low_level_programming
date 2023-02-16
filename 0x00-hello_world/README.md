@@ -1,1 +1,1 @@
-Write a C program that prints what is needed followed by a new line
+A c program that prints a certain discription followed by a new line
