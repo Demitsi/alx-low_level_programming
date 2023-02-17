@@ -3,20 +3,18 @@
 #include <time.h>
 /**
  * main - Entry point
- * Description: a program that prints the alphabet in lowercase, followed by a new line
+ * Description: a program that prints the alphabet in lowercase
  *
  * Return: 0 (success)
  */
 int main(void)
+	
+char alphabet;
+
+for (alphabet = 'a'; alphabet <= 'z' ; alphabet++)
 {
-    char alphabet;
-
-    for (alphabet = 'a'; alphabet <= 'z' ; alphabet++)
-    {
-        putchar(alphabet);
-
-    }
-	putchar('\n');
-    return (0);
+       	putchar(alphabet);
 }
-
+putchar('\n');
+return (0);
+}
