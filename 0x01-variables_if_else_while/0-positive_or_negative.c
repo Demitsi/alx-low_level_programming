@@ -5,11 +5,11 @@
 /**
  * Get the variable given (n)
  * Check if n > 0
- * Output "The number is positive"
+ * Output "is positive"
  * Else if n < 0
- * Output "The number is negative"
+ * Output "is negative"
  * Else
- * Output "The number is zero"
+ * Output "is zero"
  */
 /* betty style doc for function main goes there */
 int main(void)
@@ -20,13 +20,13 @@ n = rand() - RAND_MAX / 2;
 printf("%d \n", n);
 /* your code goes there */
 if (n > 0)
-{ printf("The number is positive \n");
+{ printf("is positive \n");
 }
 else if (n < 0)
-{ printf("The number is negative \n");
+{ printf("is negative \n");
 }
 else 
-{ printf("The number is zero \n");
+{ printf("is zero \n");
 }	
 return (0);
 }
