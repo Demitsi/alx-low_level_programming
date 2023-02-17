@@ -4,12 +4,12 @@
 /* more headers goes there */
 /**
  * Get the variable given (n)
- * Check if n > 0
+ * main - Enter point  if n > 0
  * Output "is positive"
  * Else if n < 0
  * Output "is negative"
  * Else
- * Output "is zero"
+ * Return "is zero"
  */
 /* betty style doc for function main goes there */
 int main(void)
@@ -20,13 +20,13 @@ n = rand() - RAND_MAX / 2;
 printf("%d \n", n);
 /* your code goes there */
 if (n > 0)
-{ printf("is positive \n");
+{ printf("%d is positive \n");
 }
 else if (n < 0)
-{ printf("is negative \n");
+{ printf("%d is negative \n");
 }
 else 
-{ printf("is zero \n");
+{ printf("%d is zero \n");
 }	
 return (0);
 }
