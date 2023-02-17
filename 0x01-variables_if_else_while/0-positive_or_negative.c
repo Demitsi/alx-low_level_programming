@@ -1,5 +1,15 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+/**
+ * Get the variable given (n)
+ * Check if n > 0
+ * Output "The number is positive"
+ * Else if n < 0
+ * Output "The number is negative"
+ * Else
+ * Output "The number is zero"
+ */
 int main(void)
 {
 int n;
