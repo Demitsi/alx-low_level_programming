@@ -1,1 +1,1 @@
-The program is designed to assign a random number to the variable n each time it is executed. The source code needs to be completed in order to print the last digit of the number stored in the variable n
+a program which prints the alphabet in lowercase, followed by a new line
