@@ -17,11 +17,8 @@ int main(void)
 	/* a program that prints the alphabet in lowercase, followed by a new line*/
 	char low;
 	for (low = 'a'; low <= 'z'; low++)
-	{
-	       	putchar(low);
-	}
-	{
-	       	putchar('\n');
-	}
+		putchar(low); 
+		putchar('\n');
+	
 	return (0);
 }
