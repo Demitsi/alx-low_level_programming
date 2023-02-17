@@ -1,0 +1,1 @@
+The program will assign a random number to a certain variable, each time it is executed. Complete the required source code in order to print the number stored in the variable whether it is positive or negative
