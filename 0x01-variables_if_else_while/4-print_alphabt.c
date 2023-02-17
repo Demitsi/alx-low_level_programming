@@ -3,20 +3,17 @@
 #include <time.h>
 /**
  * main - Entry point
- * Description: printing the alphabet in lowercase excluding q and e
+ * Description: It prints the alphabet in lowercase  all letters except q and e
  *
  * Return: Always 0 (success)
  */
 int main(void)
 {
 	char alphabet, e, q;
-	
-	e = 'e'; 
-	q= 'q';
-	
-	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
-	
-	if (alphabet != e && alphabet != q)
+	e = 'e';
+	q = 'q';
+	for(alphabet = 'a'; alphabet <= 'z'; alphabet++)
+	if(alphabet != e && alphabet != q)
 	{
 		putchar(alphabet);
 	}
