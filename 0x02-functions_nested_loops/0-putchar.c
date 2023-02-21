@@ -5,7 +5,6 @@
  *
  * Return: 0
  */
-int 'main'(void)
 {
 	char word[8] = "_putchar";
 	int i;
