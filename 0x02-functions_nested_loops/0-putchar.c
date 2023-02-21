@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 #include <main.h>
 /**
  * main - Entry point
@@ -8,7 +6,7 @@
  *
  * Return: 0 (success)
  */
-int main(void)
+int main.h(void)
 {
 	char word[8] = "_putchar";
 	int i;
