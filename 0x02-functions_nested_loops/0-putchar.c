@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <main.h>
 /**
  * main - Entry point
  * Description: 'It's a program that prints _putchar, followed by a new line'
