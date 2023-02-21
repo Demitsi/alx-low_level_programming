@@ -6,7 +6,7 @@
  *
  * Return: 0 (success)
  */
-int main(void)
+int main.h(void)
 {
 	char word[8] = "_putchar";
 	int i;
