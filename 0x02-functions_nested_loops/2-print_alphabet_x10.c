@@ -1,17 +1,19 @@
 #include "main.h"
 /**
  * print_alphabet_x10 - Check description
- * Description: To print the alphabet 10x in lowercase and adding a line
+ * Description: The function usese the putchar function to print
  *
  * Return: 0 (success)
  */
 void print_alphabet_x10(void)
 {
 	char i;
+	int j;
 
-	for (i = 'a'; i <= 'z'; i++)
+	for (j = '0'; j <= '10'; j++)
 	{
-		_putchar(i);
+	for (i = 'a'; i <= 'z'; i++)
+		_putchar(j);
 		_putchar('\n');
 	}
 	return (0);
