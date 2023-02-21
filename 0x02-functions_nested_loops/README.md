@@ -1,1 +1,1 @@
-It is a function which  prints the alphabet in lowercase, followed by a new line
+It is a function which prints 10 times the alphabet in lowercase, followed by a new line
