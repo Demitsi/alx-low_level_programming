@@ -12,13 +12,7 @@ int i;
 
 while (i < 10)
 {
-	(char = 'a');
-}
-{
-	(char < 'z');
-}
-{
-	(char++);
+	(char = 'a'; char < 'z'; char++);
 }
 while (char <= 'z')
 {
