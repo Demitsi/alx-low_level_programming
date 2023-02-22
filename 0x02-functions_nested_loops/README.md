@@ -1,1 +1,1 @@
-It is a function which prints 10 times the alphabet in lowercase, followed by a new line
+Is to write a function which checks for lowercase characters
