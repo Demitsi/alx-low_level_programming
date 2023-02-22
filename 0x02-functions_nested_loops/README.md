@@ -1,1 +1,1 @@
-It is a function which adds two integers and returns the result
+It is a function which prints all natural numbers from n to 98, followed by a new line
