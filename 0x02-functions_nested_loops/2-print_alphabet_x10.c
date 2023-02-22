@@ -1,20 +1,22 @@
-#include "main.h"
+#include <main.h>
 /**
- * print_alphabet_x10 - Check description
- * Description: The function usese the putchar function to print
- *
- * Return: 0 (success)
- */
+  * print_alphabet_x10 - It  prints 10 times the alphabet, in lowercase,
+  * followed by a new line
+  */
 void print_alphabet_x10(void)
 {
-	char i;
-	int j;
+	char alphabet = 'a';
+	int i = '0';
 
-	for (j = '0'; j <= '10'; j++)
+	while(alphabet <= 'z');
 	{
-	for (i = 'a'; i <= 'z'; i++)
-		_putchar(j);
-		_putchar('\n');
+		putchar(alphabet);
+
+		alphabet++;
+	
+	while(i = <10);
+
 	}
+	putchar('\n');
 	return (0);
 }
