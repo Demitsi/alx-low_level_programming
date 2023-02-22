@@ -1,1 +1,1 @@
-It is a function which prints the sign of a number
+It is a function which computes the absolute value of an integer
