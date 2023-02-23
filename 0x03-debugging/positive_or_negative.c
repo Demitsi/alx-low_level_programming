@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - Entry point
- *
+ * Description: It must test the function positive_or_negative.
  * Return: Always 0 (Success)
  */
 int positive_or_negative(void)
