@@ -17,6 +17,7 @@ void print_number(int n)
 	else
 		print_integer(n);
 }
+#include "main.h"
 /**
  * print_integer - It is a function that prints n
  * @m: It is an input unsigned integer
