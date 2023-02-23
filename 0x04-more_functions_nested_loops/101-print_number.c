@@ -1,4 +1,5 @@
 #include "main.h"
+void print_integer(int m);
 /**
  * print_number - It is a function that prints an integer.
  * @n: Is an input integer
